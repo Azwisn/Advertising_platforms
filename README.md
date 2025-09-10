@@ -34,11 +34,7 @@
 
 ### 🔹 Шаги запуска
 
-1. Клонировать проект с GitHub:
-   ```bash
-   git clone https://github.com/<your-repo>/AdPlatformsService.git
-   cd AdPlatformsService
-   ```
+Клонировать проект с GitHub
 
 Собрать решение:
 
